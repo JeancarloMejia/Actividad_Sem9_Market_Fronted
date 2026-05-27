@@ -44,7 +44,7 @@ Luego ejecuta los siguientes comandos:
 ---
 
 ## Deploy
-https://actividad-sem9-market.vercel.com  
+https://actividad-sem9-market.vercel.app
 
 ---
 
