@@ -28,7 +28,18 @@ Proyecto frontend desarrollado en **React** como parte de la actividad de la sem
 - Diseño tipo dashboard moderno  
 - Tabla dinámica de productos  
 - Indicadores de stock bajo  
-- Experiencia responsive y limpia  
+- Experiencia responsive y limpia
+
+---
+
+## Instalación y ejecución
+Antes de ejecutar el proyecto, asegúrate de tener instalado:
+
+- **Node.js**
+
+Luego ejecuta los siguientes comandos:
+`npm install`
+`npm run dev`
 
 ---
 
